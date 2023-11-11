@@ -1,0 +1,94 @@
+/*cores
+azul quase preto - #0E0D2F
+azul escuro - #466896
+azul claro meio cinza - #94ADCB
+azul claro - #D4E9FC
+cinza claro - #EDEEF0
+vermelho - #EF3530
+*/
+
+
+/*Texto*/
+h1{
+    font-size: 14mm ;
+    text-align: center;
+    color: #466896;
+}
+
+h3{
+    font-size: 6mm;
+    text-align: center;
+}
+
+p{
+    font-size: 5mm;
+}
+
+/*Dividoes*/
+section{
+    margin-top: 80px;
+    margin-left: 90px;
+    background-color: rgb(255, 255, 255);
+}
+
+footer{
+    text-align: center;
+    background-color: #EDEEF0;
+}
+
+.banner{
+    width: 100%;
+    padding-top: 100px;
+}
+
+.banner1{
+    width: 100%;
+}
+
+.ods{
+    margin: 50px;
+}
+.textods{
+    line-height: 46px;
+}
+
+.row{
+    padding-bottom: 8%;
+}
+
+.ot{
+    color: #EF3530;
+}
+
+.gale{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 80%;
+    border-style: solid;
+    border-color: #466896;
+}
+
+.galer{
+    margin: auto;
+}
+
+.container-fluid{
+    width: 90%;
+}
+
+.card-text{
+    position: absolute;
+    padding: 1%;
+}
+
+.card-body{
+    margin-bottom: 125%;
+}
+
+.card{
+    border: none;
+}
+
+.centro{
+    margin-left: 10%;
+}
